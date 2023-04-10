@@ -2,7 +2,8 @@
 海的眼睛
 
 目前主页视图
-![[Obsidian/附件/README.png]]
+![image](https://user-images.githubusercontent.com/102341204/230889750-d6c70161-80b4-40fd-9b8f-b4a80f4fe49b.png)
+
 
 
 基于 blue topaz 主题，嫁接部分css片段

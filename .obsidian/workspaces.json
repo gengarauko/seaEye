@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "我的主页": {
+    "home": {
       "main": {
         "id": "fbc1e43ec30f0a0f",
         "type": "split",
@@ -97,7 +97,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 300
+        "width": 228.5
       },
       "right": {
         "id": "5a44178ab1c2f64e",
@@ -114,7 +114,13 @@
                   "type": "calendar",
                   "state": {}
                 }
-              },
+              }
+            ]
+          },
+          {
+            "id": "08a8983e51e85bc5",
+            "type": "tabs",
+            "children": [
               {
                 "id": "4e5d132de9a13e18",
                 "type": "leaf",
@@ -159,7 +165,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 300
+        "width": 234.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -173,8 +179,8 @@
           "workspaces:管理工作区布局": false
         }
       },
-      "active": "31f5ff40ad397b9d"
+      "active": "05f7666928f3c818"
     }
   },
-  "active": "我的主页"
+  "active": "home"
 }

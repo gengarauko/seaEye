@@ -3,7 +3,7 @@
   "defaultNote": "Obsidian/主页/我的主页",
   "useMoment": false,
   "momentFormat": "YYYY-MM-DD",
-  "workspace": "我的主页",
+  "workspace": "home",
   "workspaceEnabled": true,
   "openOnStartup": true,
   "hasRibbonIcon": true,

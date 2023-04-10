@@ -6,5 +6,6 @@
   "showLineNumber": false,
   "readableLineLength": true,
   "newLinkFormat": "absolute",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "vimMode": false
 }

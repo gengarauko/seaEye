@@ -18,6 +18,7 @@ viewtime:
 updated: 
 status: 已看
 grade: ⭐️⭐️⭐️
+banner_y: 0.24667
 ---
 > [!bookinfo|noicon]+ 🎬《阿凡达：水之道 Avatar_ The Way of Water》
 > ![bookcover|200](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2884182275.jpg)

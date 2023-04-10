@@ -10,7 +10,10 @@
     "【进度颜色】colourful progress bar",
     "【项目管理】sharetype",
     "【卡片视图】zettelkasten",
-    "【卡片视图】cards"
+    "【卡片视图】cards",
+    "【日记】Time",
+    "【日记】timeline",
+    "【天气】weather"
   ],
   "translucency": false
 }

@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 学习笔记/Linux/Netcat 详解.md"
+                "file": "03 学习笔记/00 学习计划.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 学习笔记/Linux/Netcat 详解.md",
+                "file": "03 学习笔记/00 学习计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 学习笔记/Linux/Netcat 详解.md",
+                "file": "03 学习笔记/00 学习计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +177,35 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6a25c1af71f6bfea",
+  "active": "6112f051af4e74a9",
   "lastOpenFiles": [
+    "01 工作记录/02 平安银行/每日工作记录/00 工作速记.md",
+    "Obsidian/主页/我的主页.md",
+    "02 生活点滴/02 电影院/00 电影院.md",
+    "02 生活点滴/03 动漫/00 动漫库.md",
+    "02 生活点滴/01 电视剧/00 电视剧.md",
+    "02 生活点滴/04 图书馆/00 图书馆.md",
+    "00 每日日记/2023-04-10.md",
+    "01 工作记录/02 平安银行/每日工作记录/4-10 工作记录.md",
+    "02 生活点滴/02 电影院/断网 斷網.md",
+    "Obsidian/模板/模板-日记.md",
+    "03 学习笔记/00 学习计划.md",
+    "02 生活点滴/02 电影院/阿凡达：水之道 Avatar_ The Way of Water.md",
+    "Obsidian/工具/文件管理.md",
+    "Obsidian/附件/tenor.gif",
+    "01 工作记录/2023-04-10.md",
+    "02 生活点滴/05 游戏室",
+    "00 每日日记",
+    "Obsidian/模板/模板-电影.md",
+    "2023-04-10.md",
+    "Obsidian/附件/daily-note-banner.gif",
+    "Obsidian/工具/工具栏.md",
+    "Obsidian/工具/电影管理.md",
+    "Obsidian/模板/模板-图书.md",
+    "README.md",
+    "03 学习笔记/Linux/Netcat 详解.md",
+    "03 学习笔记/Linux/用 U 盘制作 CentOS 系统启动盘.md",
+    "03 学习笔记/Linux/ssh免密登录.md",
     "Obsidian/附件/Netcat 详解-16.png",
     "Obsidian/附件/Netcat 详解-15.png",
     "Obsidian/附件/Netcat 详解-14.png",
@@ -187,12 +214,6 @@
     "Obsidian/附件/Netcat 详解-11.png",
     "Obsidian/附件/Netcat 详解-10.png",
     "Obsidian/附件/Netcat 详解-9.png",
-    "Obsidian/附件/Netcat 详解-8.png",
-    "Obsidian/附件/Netcat 详解-7.png",
-    "Obsidian/附件/Netcat 详解-6.png",
-    "03 学习笔记/Linux/ssh免密登录.md",
-    "03 学习笔记/Linux/Netcat 详解.md",
-    "Obsidian/主页/我的主页.md",
     "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/5701.216a26f4.1b46c6505aab90e62654.css",
     "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/column.216a26f4.f32f3564fcccdb253e7d.css",
     "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/user-hover-card.216a26f4.7f1de7c441470974ce17.css",
@@ -201,29 +222,8 @@
     "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/3757.216a26f4.bf8d6607cd19b4dd1bab.css",
     "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/7626.216a26f4.c3ad14224838b7ff6ce9.css",
     "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/ECommerceAd.216a26f4.53d1c79dfbd546fb2ace.css",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/5242.216a26f4.d85c1258a9cf7ea8720a.css",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/EditableV2.216a26f4.86147906b330fd7351a9.css",
-    "README.md",
-    "01 工作记录/02 平安银行/每日工作记录/00 工作速记.md",
     "01 工作记录/01 盛世全景/探针离线跑流量.md",
     "01 工作记录/01 盛世全景/数据包下载（单个包）为空.md",
-    "03 学习笔记/Linux/用 U 盘制作 CentOS 系统启动盘.md",
-    "02 生活点滴/04 图书馆/00 图书馆.md",
-    "02 生活点滴/02 电影院/00 电影院.md",
-    "02 生活点滴/01 电视剧/00 电视剧.md",
-    "02 生活点滴/03 动漫/00 动漫库.md",
-    "03 学习笔记/00 学习计划.md",
-    "03 学习笔记/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程.md",
-    "Obsidian/工具/按钮列表.md",
-    "02 生活点滴/02 电影院/假面骑士极狐 × 假面骑士利维斯：电影大逃杀 仮面ライダーギーツ×リバイス MOVIE バトルロワイヤル.md",
-    "01 工作记录/01 盛世全景/探针安装ftp服务.md",
-    "02 生活点滴/02 电影院/超级马力欧兄弟大电影 The Super Mario Bros. Movie.md",
-    "02 生活点滴/02 电影院/假面骑士W RETURNS 假面骑士Eternal 仮面ライダーW RETURNS 仮面ライダーエターナル.md",
-    "02 生活点滴/02 电影院/阿凡达：水之道 Avatar_ The Way of Water.md",
-    "02 生活点滴/02 电影院/南海十三郎.md",
-    "02 生活点滴/02 电影院/绣春刀II：修罗战场.md",
-    "02 生活点滴/02 电影院/绣春刀.md",
-    "02 生活点滴/02 电影院/十月围城.md",
-    "02 生活点滴/02 电影院/武侠.md"
+    "03 学习笔记/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程.md"
   ]
 }

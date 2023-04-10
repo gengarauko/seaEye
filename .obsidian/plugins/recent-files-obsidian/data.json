@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Netcat 详解",
+      "path": "03 学习笔记/Linux/Netcat 详解.md"
+    },
+    {
+      "basename": "ssh免密登录",
+      "path": "03 学习笔记/Linux/ssh免密登录.md"
+    },
+    {
       "basename": "我的主页",
       "path": "Obsidian/主页/我的主页.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "数据包下载（单个包）为空",
       "path": "01 工作记录/01 盛世全景/数据包下载（单个包）为空.md"
-    },
-    {
-      "basename": "ssh免密登录",
-      "path": "03 学习笔记/Linux/ssh免密登录.md"
     },
     {
       "basename": "用 U 盘制作 CentOS 系统启动盘",

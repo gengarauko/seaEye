@@ -65,16 +65,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "9eb20bad793d6638",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Obsidian/主页/我的主页.md"
-              }
-            }
           }
         ]
       },
@@ -112,6 +102,16 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "9eb20bad793d6638",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 学习笔记/Linux/Netcat 详解.md"
+              }
+            }
           }
         ]
       },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/主页/我的主页.md",
+                "file": "03 学习笔记/Linux/Netcat 详解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/主页/我的主页.md",
+                "file": "03 学习笔记/Linux/Netcat 详解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +177,22 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "31f5ff40ad397b9d",
+  "active": "6a25c1af71f6bfea",
   "lastOpenFiles": [
+    "Obsidian/附件/Netcat 详解-16.png",
+    "Obsidian/附件/Netcat 详解-15.png",
+    "Obsidian/附件/Netcat 详解-14.png",
+    "Obsidian/附件/Netcat 详解-13.png",
+    "Obsidian/附件/Netcat 详解-12.png",
+    "Obsidian/附件/Netcat 详解-11.png",
+    "Obsidian/附件/Netcat 详解-10.png",
+    "Obsidian/附件/Netcat 详解-9.png",
+    "Obsidian/附件/Netcat 详解-8.png",
+    "Obsidian/附件/Netcat 详解-7.png",
+    "Obsidian/附件/Netcat 详解-6.png",
+    "03 学习笔记/Linux/ssh免密登录.md",
+    "03 学习笔记/Linux/Netcat 详解.md",
+    "Obsidian/主页/我的主页.md",
     "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/5701.216a26f4.1b46c6505aab90e62654.css",
     "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/column.216a26f4.f32f3564fcccdb253e7d.css",
     "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/user-hover-card.216a26f4.7f1de7c441470974ce17.css",
@@ -189,24 +203,11 @@
     "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/ECommerceAd.216a26f4.53d1c79dfbd546fb2ace.css",
     "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/5242.216a26f4.d85c1258a9cf7ea8720a.css",
     "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/EditableV2.216a26f4.86147906b330fd7351a9.css",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/init.js.下载",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/v2-e93bdf29595d234f09306d3b0b1f6272_l.jpg",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/v2-76d3f37ac4aebdf5ee9e890c108cbdbb_l.jpg",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/v2-4812630bc27d642f7cafcd6cdeca3d7a.jpg",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/v2-0942128ebfe78f000e84339fbb745611.png",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/v2-e93bdf29595d234f09306d3b0b1f6272_l(1).jpg",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/v2-52f8c87376792e927b6cf0896b726f06.png",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/v2-abea717589b3710b21e68d8ac9294b7a_l.jpg",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/v2-6fd89b96fc9986f5ca81c7cc8fae11b7_l.jpg",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/v2-8019c1140add613cca2f967700438759_l.jpg",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/v2-4812630bc27d642f7cafcd6cdeca3d7a(1).jpg",
     "README.md",
-    "Obsidian/主页/我的主页.md",
     "01 工作记录/02 平安银行/每日工作记录/00 工作速记.md",
     "01 工作记录/01 盛世全景/探针离线跑流量.md",
     "01 工作记录/01 盛世全景/数据包下载（单个包）为空.md",
     "03 学习笔记/Linux/用 U 盘制作 CentOS 系统启动盘.md",
-    "03 学习笔记/Linux/ssh免密登录.md",
     "02 生活点滴/04 图书馆/00 图书馆.md",
     "02 生活点滴/02 电影院/00 电影院.md",
     "02 生活点滴/01 电视剧/00 电视剧.md",
@@ -223,7 +224,6 @@
     "02 生活点滴/02 电影院/绣春刀II：修罗战场.md",
     "02 生活点滴/02 电影院/绣春刀.md",
     "02 生活点滴/02 电影院/十月围城.md",
-    "02 生活点滴/02 电影院/武侠.md",
-    "02 生活点滴/02 电影院/神探驾到 浮華宴.md"
+    "02 生活点滴/02 电影院/武侠.md"
   ]
 }

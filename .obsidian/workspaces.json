@@ -1,0 +1,180 @@
+{
+  "workspaces": {
+    "我的主页": {
+      "main": {
+        "id": "fbc1e43ec30f0a0f",
+        "type": "split",
+        "children": [
+          {
+            "id": "92bde5e91615556b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "05f7666928f3c818",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian/主页/我的主页.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9994b02e7f5bce05",
+        "type": "split",
+        "children": [
+          {
+            "id": "01855ad9bfc2b8db",
+            "type": "tabs",
+            "dimension": 68.26923076923077,
+            "children": [
+              {
+                "id": "31f5ff40ad397b9d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "9991529ba762916c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "11832916d41f986c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9eb20bad793d6638",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Obsidian/主页/我的主页.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "7ef1c0519e597c35",
+            "type": "tabs",
+            "dimension": 31.73076923076923,
+            "children": [
+              {
+                "id": "7b35d77d55463fda",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "5a44178ab1c2f64e",
+        "type": "split",
+        "children": [
+          {
+            "id": "49d610cba3ac1e5f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6a25c1af71f6bfea",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4e5d132de9a13e18",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Obsidian/主页/我的主页.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4e2dfff6beb10020",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Obsidian/主页/我的主页.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "39d33e8266d5e5d5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "homepage:Open homepage": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "31f5ff40ad397b9d"
+    }
+  },
+  "active": "我的主页"
+}

@@ -1,0 +1,136 @@
+{
+  "choices": [
+    {
+      "id": "2c82b262-ad85-4f61-a75f-a0f6e33eb68b",
+      "name": "获取豆瓣图书资源",
+      "type": "Macro",
+      "command": true,
+      "macroId": "50ca4824-44e3-4e20-b6b6-f0060f1edae9"
+    },
+    {
+      "id": "e8c0950f-4c80-4c78-b8f9-f5645f04a984",
+      "name": "获取豆瓣电影资源",
+      "type": "Macro",
+      "command": true,
+      "macroId": "2a8a2bd6-f02b-4299-b32a-2ee7ab5d6207"
+    }
+  ],
+  "macros": [
+    {
+      "name": "获取豆瓣图书资源",
+      "id": "50ca4824-44e3-4e20-b6b6-f0060f1edae9",
+      "commands": [
+        {
+          "name": "bookfromdouban",
+          "type": "UserScript",
+          "id": "dee320ee-ca70-4708-b635-a5fbb405b9ef",
+          "path": "Obsidian/script/bookfromdouban.js",
+          "settings": {}
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "a412d4b6-25a7-4d36-bcf5-637abe89cd5e",
+          "choice": {
+            "id": "413d8c03-b26f-435f-a1f5-74ea6770b4eb",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Obsidian/模板/模板-图书.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "《{{VALUE:filename}}》"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "02 生活点滴/04 图书馆"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": true
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "获取豆瓣电影资源",
+      "id": "2a8a2bd6-f02b-4299-b32a-2ee7ab5d6207",
+      "commands": [
+        {
+          "name": "moviefromdouban",
+          "type": "UserScript",
+          "id": "baca7369-235f-4418-b482-e13f276735e1",
+          "path": "Obsidian/script/moviefromdouban.js",
+          "settings": {}
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "5e498cb3-f04e-4ecc-ae04-f8a3c3773139",
+          "time": 100
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "354537af-50f9-4cef-aadb-2495d5c86d91",
+          "choice": {
+            "id": "0c2e59bf-9e78-40d8-9afc-bd805465410b",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Obsidian/模板/模板-电影.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "02 生活点滴/02 电影院"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": true
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "multi-line",
+  "devMode": false,
+  "templateFolderPath": "Obsidian/模板",
+  "announceUpdates": false,
+  "version": "0.19.4",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "fbc1e43ec30f0a0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "92bde5e91615556b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05f7666928f3c818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 工作记录/01 盛世全景/数据包下载（单个包）为空.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15e52ef60c5c4641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 工作记录/01 盛世全景/探针安装ftp服务.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fd05b6bac281996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 学习笔记/00 学习计划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d400ebf13df5de10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 学习笔记/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9994b02e7f5bce05",
+    "type": "split",
+    "children": [
+      {
+        "id": "01855ad9bfc2b8db",
+        "type": "tabs",
+        "dimension": 68.26923076923077,
+        "children": [
+          {
+            "id": "31f5ff40ad397b9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9991529ba762916c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11832916d41f986c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9eb20bad793d6638",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 学习笔记/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7ef1c0519e597c35",
+        "type": "tabs",
+        "dimension": 31.73076923076923,
+        "children": [
+          {
+            "id": "7b35d77d55463fda",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5a44178ab1c2f64e",
+    "type": "split",
+    "children": [
+      {
+        "id": "49d610cba3ac1e5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a25c1af71f6bfea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e5d132de9a13e18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 学习笔记/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e2dfff6beb10020",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 学习笔记/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39d33e8266d5e5d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "d400ebf13df5de10",
+  "lastOpenFiles": [
+    "Obsidian/附件/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程-7.png",
+    "Obsidian/附件/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程-6.png",
+    "Obsidian/附件/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程-5.png",
+    "Obsidian/附件/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程-4.png",
+    "Obsidian/附件/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程-3.png",
+    "Obsidian/附件/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程-2.png",
+    "Obsidian/附件/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程-1.png",
+    "Obsidian/附件/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程.png",
+    "01 工作记录/01 盛世全景/数据包下载（单个包）为空.md",
+    "03 学习笔记/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程.md",
+    "01 工作记录/01 盛世全景/探针安装ftp服务.md",
+    "Obsidian/主页/我的主页.md",
+    "03 学习笔记/00 学习计划.md",
+    "02 生活点滴/01 电视剧/00 电视剧.md",
+    "02 生活点滴/02 电影院/超级马力欧兄弟大电影 The Super Mario Bros. Movie.md",
+    "02 生活点滴/02 电影院/00 电影院.md",
+    "Obsidian/工具/按钮列表.md",
+    "02 生活点滴/02 电影院/假面骑士W RETURNS 假面骑士Eternal 仮面ライダーW RETURNS 仮面ライダーエターナル.md",
+    "02 生活点滴/02 电影院/阿凡达：水之道 Avatar_ The Way of Water.md",
+    "02 生活点滴/02 电影院/南海十三郎.md",
+    "02 生活点滴/02 电影院/绣春刀II：修罗战场.md",
+    "02 生活点滴/02 电影院/绣春刀.md",
+    "02 生活点滴/02 电影院/十月围城.md",
+    "02 生活点滴/02 电影院/武侠.md",
+    "02 生活点滴/02 电影院/神探驾到 浮華宴.md",
+    "02 生活点滴/02 电影院/追龙 追龍.md",
+    "02 生活点滴/02 电影院/大师兄 大師兄.md",
+    "02 生活点滴/02 电影院/叶问外传：张天志 葉問外傳：張天志.md",
+    "02 生活点滴/02 电影院/叶问4：完结篇 葉問4：完結篇.md",
+    "02 生活点滴/02 电影院/肥龙过江 肥龍過江.md",
+    "02 生活点滴/02 电影院/冰封：重生之门.md",
+    "02 生活点滴/02 电影院/四大名捕2.md",
+    "02 生活点滴/02 电影院/狄仁杰之神都龙王.md",
+    "Obsidian/工具",
+    "Obsidian/教程/【效率办公】Obsidain插件之Button-添加自定义功能的按钮，实现自动化操作 - 哔哩哔哩.pdf",
+    "Obsidian/教程",
+    "Obsidian/附件/R-C.gif",
+    "Obsidian/附件/R-C.gif.crdownload",
+    "Obsidian/附件/放映机.gif",
+    "Obsidian/附件/放映机.gif.crdownload",
+    "Obsidian/script/moviefromdouban.js",
+    "Obsidian/script/bookfromdouban.js",
+    "Obsidian/script",
+    "Obsidian/新建文件夹",
+    "Obsidian/附件/book-banner.gif",
+    "02 生活点滴/Game"
+  ]
+}

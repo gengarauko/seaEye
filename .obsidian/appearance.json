@@ -1,0 +1,16 @@
+{
+  "accentColor": "#4ed1fd",
+  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "【主页设置】homepage setting",
+    "【边栏图标】sidepane",
+    "【主页设置】homepage setting media mobile",
+    "【分栏支持】admonition-col2-col3-flex",
+    "【进度颜色】colourful progress bar",
+    "【项目管理】sharetype",
+    "【卡片视图】zettelkasten",
+    "【卡片视图】cards"
+  ],
+  "translucency": false
+}

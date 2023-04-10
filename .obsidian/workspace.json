@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/主页/我的主页.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5070c85b69c07ecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 工作记录/01 盛世全景/数据包下载（单个包）为空.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c7e229b3fa08de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 工作记录/01 盛世全景/探针离线跑流量.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/主页/我的主页.md"
+                "file": "01 工作记录/01 盛世全景/探针离线跑流量.md"
               }
             }
           }
@@ -125,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/主页/我的主页.md",
+                "file": "01 工作记录/01 盛世全景/探针离线跑流量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/主页/我的主页.md",
+                "file": "01 工作记录/01 盛世全景/探针离线跑流量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +202,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "05f7666928f3c818",
+  "active": "0c7e229b3fa08de8",
   "lastOpenFiles": [
+    "README.md",
+    "Obsidian/附件/README.png",
     "Obsidian/主页/我的主页.md",
+    "01 工作记录/02 平安银行/每日工作记录/00 工作速记.md",
+    "01 工作记录/01 盛世全景/探针离线跑流量.md",
+    "01 工作记录/01 盛世全景/数据包下载（单个包）为空.md",
     "Obsidian/附件/ssh免密登录-4.png",
     "Obsidian/附件/ssh免密登录-3.png",
     "Obsidian/附件/ssh免密登录-2.png",
@@ -192,8 +222,6 @@
     "02 生活点滴/01 电视剧/00 电视剧.md",
     "02 生活点滴/03 动漫/00 动漫库.md",
     "03 学习笔记/00 学习计划.md",
-    "01 工作记录/02 平安银行/每日工作记录/00 工作速记.md",
-    "01 工作记录/01 盛世全景/数据包下载（单个包）为空.md",
     "03 学习笔记/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程.md",
     "Obsidian/工具/按钮列表.md",
     "02 生活点滴/02 电影院/假面骑士极狐 × 假面骑士利维斯：电影大逃杀 仮面ライダーギーツ×リバイス MOVIE バトルロワイヤル.md",
@@ -202,7 +230,6 @@
     "Obsidian/附件/用U盘制作CentOS系统启动盘-10.png",
     "Obsidian/附件/用U盘制作CentOS系统启动盘-9.png",
     "Obsidian/附件/用U盘制作CentOS系统启动盘-8.png",
-    "Obsidian/附件/用U盘制作CentOS系统启动盘-7.png",
     "03 学习笔记/Linux",
     "02 生活点滴/02 电影院/超级马力欧兄弟大电影 The Super Mario Bros. Movie.md",
     "02 生活点滴/02 电影院/假面骑士W RETURNS 假面骑士Eternal 仮面ライダーW RETURNS 仮面ライダーエターナル.md",
@@ -214,7 +241,6 @@
     "02 生活点滴/02 电影院/武侠.md",
     "02 生活点滴/02 电影院/神探驾到 浮華宴.md",
     "02 生活点滴/02 电影院/追龙 追龍.md",
-    "02 生活点滴/02 电影院/大师兄 大師兄.md",
     "Obsidian/工具",
     "Obsidian/教程/【效率办公】Obsidain插件之Button-添加自定义功能的按钮，实现自动化操作 - 哔哩哔哩.pdf",
     "Obsidian/教程",

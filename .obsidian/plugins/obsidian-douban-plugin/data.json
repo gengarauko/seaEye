@@ -11,7 +11,7 @@
   "timeFormat": "HH:mm:ss",
   "arraySpilt": ", ",
   "personNameMode": "CH",
-  "dataFilePath": "02 生活点滴",
+  "dataFilePath": "02 生活点滴/01 电视剧",
   "dataFileNamePath": "/{{type}}/{{title}}",
   "statusBar": true,
   "debugMode": false,

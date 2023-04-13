@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3e4332a10992c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 资料收集/AI 绘图/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 学习笔记/00 学习计划.md"
+                "file": "04 资料收集/AI 绘图/README.md"
               }
             }
           }
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 学习笔记/00 学习计划.md",
+                "file": "04 资料收集/AI 绘图/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 学习笔记/00 学习计划.md",
+                "file": "04 资料收集/AI 绘图/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,14 +190,39 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6112f051af4e74a9",
+  "active": "e3e4332a10992c4d",
   "lastOpenFiles": [
-    "01 工作记录/02 平安银行/每日工作记录/00 工作速记.md",
+    "04 资料收集/AI 绘图/新闻资料/images/output.png",
+    "04 资料收集/AI 绘图/新闻资料/images/wechat.jpg",
+    "04 资料收集/AI 绘图/新闻资料/images/new.png",
+    "04 资料收集/AI 绘图/新闻资料/images/mewx4.jpg",
+    "04 资料收集/AI 绘图/新闻资料/images/mewx2.jpg",
+    "04 资料收集/AI 绘图/新闻资料/images/mewx.jpg",
+    "04 资料收集/AI 绘图/新闻资料/images/maximum.jpeg",
+    "04 资料收集/AI 绘图/新闻资料/images/GUI.png",
+    "04 资料收集/AI 绘图/新闻资料/images/dc66e5fa-acd6-431d-8994-40837038d367.gif",
+    "04 资料收集/AI 绘图/新闻资料/images/d229577c-0aa0-4022-9d00-ef148dc6908e.png",
+    "04 资料收集/AI 绘图/新闻资料/images/cool.jpeg",
+    "04 资料收集/AI 绘图/新闻资料/images",
+    "04 资料收集/AI 绘图/新闻资料/2023.1.1 - 2023.1.7.md",
+    "04 资料收集/AI 绘图/新闻资料/2022.10.1 之前.md",
+    "04 资料收集/AI 绘图/新闻资料/10.17 - 10.24.md",
+    "04 资料收集/AI 绘图/新闻资料/10.1 - 10.9.md",
+    "04 资料收集/AI 绘图/新闻资料",
+    "01 工作记录/01 盛世全景/5期程序镜像记录/镜像记录（图片版20230412）.md",
+    "04 资料收集/AI 绘图/README.md",
+    "04 资料收集/AI 绘图",
+    "04 资料收集",
+    "01 工作记录/01 盛世全景/5期程序镜像记录/~$副本平安银行5.0程序版本确认表v1.0.xlsx",
+    "01 工作记录/01 盛世全景/5期程序镜像记录/平安银行5.0程序版本确认表v1.0.xlsx",
+    "01 工作记录/01 盛世全景/5期程序镜像记录",
+    "01 工作记录/01 盛世全景/数据包下载（单个包）为空.md",
     "Obsidian/主页/我的主页.md",
+    "02 生活点滴/04 图书馆/00 图书馆.md",
+    "01 工作记录/02 平安银行/每日工作记录/00 工作速记.md",
     "02 生活点滴/02 电影院/00 电影院.md",
     "02 生活点滴/03 动漫/00 动漫库.md",
     "02 生活点滴/01 电视剧/00 电视剧.md",
-    "02 生活点滴/04 图书馆/00 图书馆.md",
     "00 每日日记/2023-04-10.md",
     "01 工作记录/02 平安银行/每日工作记录/4-10 工作记录.md",
     "02 生活点滴/02 电影院/断网 斷網.md",
@@ -192,38 +230,13 @@
     "03 学习笔记/00 学习计划.md",
     "02 生活点滴/02 电影院/阿凡达：水之道 Avatar_ The Way of Water.md",
     "Obsidian/工具/文件管理.md",
-    "Obsidian/附件/tenor.gif",
     "01 工作记录/2023-04-10.md",
     "02 生活点滴/05 游戏室",
     "00 每日日记",
     "Obsidian/模板/模板-电影.md",
     "2023-04-10.md",
-    "Obsidian/附件/daily-note-banner.gif",
     "Obsidian/工具/工具栏.md",
     "Obsidian/工具/电影管理.md",
-    "Obsidian/模板/模板-图书.md",
-    "README.md",
-    "03 学习笔记/Linux/Netcat 详解.md",
-    "03 学习笔记/Linux/用 U 盘制作 CentOS 系统启动盘.md",
-    "03 学习笔记/Linux/ssh免密登录.md",
-    "Obsidian/附件/Netcat 详解-16.png",
-    "Obsidian/附件/Netcat 详解-15.png",
-    "Obsidian/附件/Netcat 详解-14.png",
-    "Obsidian/附件/Netcat 详解-13.png",
-    "Obsidian/附件/Netcat 详解-12.png",
-    "Obsidian/附件/Netcat 详解-11.png",
-    "Obsidian/附件/Netcat 详解-10.png",
-    "Obsidian/附件/Netcat 详解-9.png",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/5701.216a26f4.1b46c6505aab90e62654.css",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/column.216a26f4.f32f3564fcccdb253e7d.css",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/user-hover-card.216a26f4.7f1de7c441470974ce17.css",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/Labels.216a26f4.81c9ce8725560c5bcc6a.css",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/GoodsRecommendGoodsCardList.216a26f4.d95ce79191cdf8d7ac28.css",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/3757.216a26f4.bf8d6607cd19b4dd1bab.css",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/7626.216a26f4.c3ad14224838b7ff6ce9.css",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/ECommerceAd.216a26f4.53d1c79dfbd546fb2ace.css",
-    "01 工作记录/01 盛世全景/探针离线跑流量.md",
-    "01 工作记录/01 盛世全景/数据包下载（单个包）为空.md",
-    "03 学习笔记/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程.md"
+    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/5701.216a26f4.1b46c6505aab90e62654.css"
   ]
 }

@@ -15,5 +15,6 @@
     "【日记】timeline",
     "【天气】weather"
   ],
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 14
 }

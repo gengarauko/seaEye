@@ -8,43 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05f7666928f3c818",
+            "id": "21d1f001e0410b37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/主页/我的主页.md",
+                "file": "03 学习笔记/相关工具/prometheus/Prometheus Operator.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "e3e4332a10992c4d",
+            "id": "11611d922dd227a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 工作记录/02 平安银行/每日工作记录/4-10 工作记录.md",
+                "file": "04 资料收集/Prometheus 中文文档/序章/0.1 Introduction.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "a467d2bdc7ed39f4",
+            "id": "54c4528a89f64edc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 生活点滴/02 电影院/00 电影院.md",
+                "file": "04 资料收集/Prometheus 中文文档/PART I - PROMETHEUS基础/第一章：天降奇兵/1.0 开篇.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "033321798988b4c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 资料收集/Prometheus 中文文档/PART III - PROMETHEUS实战/第9章 Prometheus Operator/9.0 开篇.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 254.5
   },
   "right": {
     "id": "5a44178ab1c2f64e",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 生活点滴/02 电影院/00 电影院.md"
+                "file": "04 资料收集/Prometheus 中文文档/PART III - PROMETHEUS实战/第9章 Prometheus Operator/9.0 开篇.md"
               }
             }
           }
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 生活点滴/02 电影院/00 电影院.md",
+                "file": "04 资料收集/Prometheus 中文文档/PART III - PROMETHEUS实战/第9章 Prometheus Operator/9.0 开篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 生活点滴/02 电影院/00 电影院.md",
+                "file": "04 资料收集/Prometheus 中文文档/PART III - PROMETHEUS实战/第9章 Prometheus Operator/9.0 开篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,53 +214,52 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a467d2bdc7ed39f4",
+  "active": "033321798988b4c1",
   "lastOpenFiles": [
-    "02 生活点滴/04 图书馆/《白夜行》.md",
+    "04 资料收集/Prometheus 中文文档/PART III - PROMETHEUS实战/第9章 Prometheus Operator/9.1 什么是Prometheus Operator.md",
+    "04 资料收集/Prometheus 中文文档/PART III - PROMETHEUS实战/第9章 Prometheus Operator/9.2 使用Operator管理Prometheus.md",
+    "Obsidian/附件/9.2 使用Operator管理Prometheus.png",
+    "Obsidian/附件/9.1 什么是Prometheus Operator.png",
+    "03 学习笔记/相关工具/prometheus/Prometheus Operator.md",
+    "04 资料收集/Prometheus 中文文档/PART III - PROMETHEUS实战/第9章 Prometheus Operator/9.0 开篇.md",
+    "04 资料收集/Prometheus 中文文档/序章/0.1 Introduction.md",
+    "04 资料收集/Prometheus 中文文档/序章/0.2 全书组织.md",
+    "04 资料收集/Prometheus 中文文档/PART I - PROMETHEUS基础/第一章：天降奇兵/1.0 开篇.md",
+    "04 资料收集/Prometheus 中文文档/PART III - PROMETHEUS实战/第9章 Prometheus Operator",
+    "04 资料收集/Prometheus 中文文档/PART I - PROMETHEUS基础/第一章：天降奇兵",
+    "04 资料收集/Prometheus 中文文档/PART II - PROMETHEUS进阶",
+    "04 资料收集/Prometheus 中文文档/PART III - PROMETHEUS实战",
+    "04 资料收集/Prometheus 中文文档/PART I - PROMETHEUS基础/第一章：天降奇兵/1.1 Prometheus简介.md",
+    "Obsidian/附件/1.1 Prometheus简介-2.png",
+    "Obsidian/附件/1.1 Prometheus简介-1.png",
+    "Obsidian/附件/1.1 Prometheus简介.png",
+    "04 资料收集/Prometheus 中文文档/PART I - PROMETHEUS基础",
+    "04 资料收集/Prometheus 中文文档/序章",
+    "04 资料收集/Prometheus 中文文档",
+    "Obsidian/主页/我的主页.md",
+    "03 学习笔记/00 学习计划.md",
+    "01 工作记录/02 平安银行/每日工作记录/00 工作速记.md",
+    "02 生活点滴/03 动漫/00 动漫库.md",
     "02 生活点滴/02 电影院/00 电影院.md",
-    "00 每日日记/2023-04-13.md",
     "02 生活点滴/04 图书馆/00 图书馆.md",
+    "03 学习笔记/Python/ModuleNotFoundError No module named 'xxx'可能的解决方案大全.md",
+    "03 学习笔记/Python",
+    "03 学习笔记/相关工具/loki/Loki -日志收集.md",
+    "03 学习笔记/相关工具/prometheus",
+    "03 学习笔记/相关工具/loki",
+    "Obsidian/附件/Prometheus Operator.png",
+    "Obsidian/附件/Loki -日志收集-1.png",
+    "Obsidian/附件/Loki -日志收集.png",
+    "02 生活点滴/02 电影院/导火线 導火綫.md",
+    "02 生活点滴/01 电视剧/00 电视剧.md",
+    "01 工作记录/02 平安银行/每日工作记录/4-10 工作记录.md",
+    "03 学习笔记/Linux/Netcat 详解.md",
+    "01 工作记录/01 盛世全景/探针安装ftp服务.md",
+    "02 生活点滴/04 图书馆/《白夜行》.md",
+    "00 每日日记/2023-04-13.md",
     "02 生活点滴/02 电影院/鬼灭之刃  上弦集结，前往锻刀村 鬼滅の刃 上弦集結、そして刀鍛冶の里ヘ.md",
     "02 生活点滴/02 电影院/断网 斷網.md",
-    "02 生活点滴/02 电影院/毒舌律师 毒舌大狀.md",
-    "00 每日日记/2023-04-10.md",
-    "01 工作记录/02 平安银行/每日工作记录/00 工作速记.md",
-    "01 工作记录/02 平安银行/每日工作记录/4-10 工作记录.md",
-    "01 工作记录/02 平安银行/每日工作记录/4-13 工作记录.md",
-    "04 资料收集/AI 绘图/数字绘画.md",
     "04 资料收集/AI 绘图/新闻资料/images/output.png",
-    "04 资料收集/AI 绘图/新闻资料/images/wechat.jpg",
-    "04 资料收集/AI 绘图/新闻资料/images/new.png",
-    "04 资料收集/AI 绘图/新闻资料/images/mewx4.jpg",
-    "04 资料收集/AI 绘图/新闻资料/images/mewx2.jpg",
-    "04 资料收集/AI 绘图/新闻资料/images/mewx.jpg",
-    "04 资料收集/AI 绘图/新闻资料/images/maximum.jpeg",
-    "04 资料收集/AI 绘图/新闻资料/images/GUI.png",
-    "04 资料收集/AI 绘图/新闻资料/images/dc66e5fa-acd6-431d-8994-40837038d367.gif",
-    "04 资料收集/AI 绘图/新闻资料/images/d229577c-0aa0-4022-9d00-ef148dc6908e.png",
-    "04 资料收集/AI 绘图/新闻资料/images",
-    "04 资料收集/AI 绘图/新闻资料/2023.1.1 - 2023.1.7.md",
-    "04 资料收集/AI 绘图/新闻资料/2022.10.1 之前.md",
-    "04 资料收集/AI 绘图/新闻资料/10.17 - 10.24.md",
-    "04 资料收集/AI 绘图/新闻资料/10.1 - 10.9.md",
-    "04 资料收集/AI 绘图/新闻资料",
-    "01 工作记录/01 盛世全景/5期程序镜像记录/镜像记录（图片版20230412）.md",
-    "04 资料收集/AI 绘图",
-    "04 资料收集",
-    "01 工作记录/01 盛世全景/5期程序镜像记录/~$副本平安银行5.0程序版本确认表v1.0.xlsx",
-    "01 工作记录/01 盛世全景/5期程序镜像记录/平安银行5.0程序版本确认表v1.0.xlsx",
-    "01 工作记录/01 盛世全景/5期程序镜像记录",
-    "01 工作记录/01 盛世全景/数据包下载（单个包）为空.md",
-    "Obsidian/主页/我的主页.md",
-    "02 生活点滴/03 动漫/00 动漫库.md",
-    "02 生活点滴/01 电视剧/00 电视剧.md",
-    "Obsidian/模板/模板-日记.md",
-    "03 学习笔记/00 学习计划.md",
-    "02 生活点滴/02 电影院/阿凡达：水之道 Avatar_ The Way of Water.md",
-    "Obsidian/工具/文件管理.md",
-    "01 工作记录/2023-04-10.md",
-    "02 生活点滴/05 游戏室",
-    "00 每日日记",
-    "Obsidian/工具/阿里云盘搜索站点汇总 - 知乎_files/5701.216a26f4.1b46c6505aab90e62654.css"
+    "04 资料收集/AI 绘图/新闻资料/images/wechat.jpg"
   ]
 }

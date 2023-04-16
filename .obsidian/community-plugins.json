@@ -15,5 +15,6 @@
   "dataview",
   "metaedit",
   "buttons",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "floating-toc"
 ]

@@ -10,7 +10,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "05f7666928f3c818",
+                "id": "21d1f001e0410b37",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -111,7 +111,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "03 学习笔记/Linux/Netcat 详解.md"
+                    "file": "Obsidian/主页/我的主页.md"
                   }
                 }
               }
@@ -127,7 +127,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "03 学习笔记/Linux/Netcat 详解.md",
+                    "file": "Obsidian/主页/我的主页.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "03 学习笔记/Linux/Netcat 详解.md",
+                    "file": "Obsidian/主页/我的主页.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -165,7 +165,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 234.5
+        "width": 295.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -179,7 +179,7 @@
           "workspaces:管理工作区布局": false
         }
       },
-      "active": "6a25c1af71f6bfea"
+      "active": "21d1f001e0410b37"
     }
   },
   "active": "home"

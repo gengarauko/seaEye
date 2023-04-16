@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "9.0 开篇",
+      "path": "04 资料收集/Prometheus 中文文档/PART III - PROMETHEUS实战/第9章 Prometheus Operator/9.0 开篇.md"
+    },
+    {
+      "basename": "9.1 什么是Prometheus Operator",
+      "path": "04 资料收集/Prometheus 中文文档/PART III - PROMETHEUS实战/第9章 Prometheus Operator/9.1 什么是Prometheus Operator.md"
+    },
+    {
+      "basename": "9.2 使用Operator管理Prometheus",
+      "path": "04 资料收集/Prometheus 中文文档/PART III - PROMETHEUS实战/第9章 Prometheus Operator/9.2 使用Operator管理Prometheus.md"
+    },
+    {
+      "basename": "Prometheus Operator",
+      "path": "03 学习笔记/相关工具/prometheus/Prometheus Operator.md"
+    },
+    {
+      "basename": "0.1 Introduction",
+      "path": "04 资料收集/Prometheus 中文文档/序章/0.1 Introduction.md"
+    },
+    {
+      "basename": "0.2 全书组织",
+      "path": "04 资料收集/Prometheus 中文文档/序章/0.2 全书组织.md"
+    },
+    {
+      "basename": "1.0 开篇",
+      "path": "04 资料收集/Prometheus 中文文档/PART I - PROMETHEUS基础/第一章：天降奇兵/1.0 开篇.md"
+    },
+    {
+      "basename": "1.1 Prometheus简介",
+      "path": "04 资料收集/Prometheus 中文文档/PART I - PROMETHEUS基础/第一章：天降奇兵/1.1 Prometheus简介.md"
+    },
+    {
+      "basename": "我的主页",
+      "path": "Obsidian/主页/我的主页.md"
+    },
+    {
+      "basename": "Loki -日志收集",
+      "path": "03 学习笔记/相关工具/loki/Loki -日志收集.md"
+    },
+    {
       "basename": "00 电影院",
       "path": "02 生活点滴/02 电影院/00 电影院.md"
+    },
+    {
+      "basename": "00 工作速记",
+      "path": "01 工作记录/02 平安银行/每日工作记录/00 工作速记.md"
+    },
+    {
+      "basename": "Netcat 详解",
+      "path": "03 学习笔记/Linux/Netcat 详解.md"
+    },
+    {
+      "basename": "探针安装ftp服务",
+      "path": "01 工作记录/01 盛世全景/探针安装ftp服务.md"
+    },
+    {
+      "basename": "00 图书馆",
+      "path": "02 生活点滴/04 图书馆/00 图书馆.md"
     },
     {
       "basename": "《白夜行》",
@@ -13,16 +69,8 @@
       "path": "00 每日日记/2023-04-13.md"
     },
     {
-      "basename": "00 图书馆",
-      "path": "02 生活点滴/04 图书馆/00 图书馆.md"
-    },
-    {
       "basename": "2023-04-10",
       "path": "00 每日日记/2023-04-10.md"
-    },
-    {
-      "basename": "00 工作速记",
-      "path": "01 工作记录/02 平安银行/每日工作记录/00 工作速记.md"
     },
     {
       "basename": "4-13 工作记录",
@@ -43,10 +91,6 @@
     {
       "basename": "数据包下载（单个包）为空",
       "path": "01 工作记录/01 盛世全景/数据包下载（单个包）为空.md"
-    },
-    {
-      "basename": "我的主页",
-      "path": "Obsidian/主页/我的主页.md"
     },
     {
       "basename": "断网 斷網",
@@ -85,10 +129,6 @@
       "path": "README.md"
     },
     {
-      "basename": "Netcat 详解",
-      "path": "03 学习笔记/Linux/Netcat 详解.md"
-    },
-    {
       "basename": "用 U 盘制作 CentOS 系统启动盘",
       "path": "03 学习笔记/Linux/用 U 盘制作 CentOS 系统启动盘.md"
     },
@@ -106,7 +146,7 @@
     },
     {
       "basename": "【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程",
-      "path": "03 学习笔记/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程.md"
+      "path": "03 学习笔记/相关工具/【GitHub】GitHub桌面版（GitHubDesktop）安装加汉化教程.md"
     },
     {
       "basename": "按钮列表",
@@ -115,10 +155,6 @@
     {
       "basename": "假面骑士极狐 × 假面骑士利维斯：电影大逃杀 仮面ライダーギーツ×リバイス MOVIE バトルロワイヤル",
       "path": "02 生活点滴/02 电影院/假面骑士极狐 × 假面骑士利维斯：电影大逃杀 仮面ライダーギーツ×リバイス MOVIE バトルロワイヤル.md"
-    },
-    {
-      "basename": "探针安装ftp服务",
-      "path": "01 工作记录/01 盛世全景/探针安装ftp服务.md"
     },
     {
       "basename": "南海十三郎",
@@ -163,42 +199,6 @@
     {
       "basename": "宇宙探索编辑部",
       "path": "02 生活点滴/02 电影院/宇宙探索编辑部.md"
-    },
-    {
-      "basename": "寻梦环游记 Coco",
-      "path": "02 生活点滴/02 电影院/寻梦环游记 Coco.md"
-    },
-    {
-      "basename": "深海",
-      "path": "02 生活点滴/02 电影院/深海.md"
-    },
-    {
-      "basename": "你的名字。 君の名は。",
-      "path": "02 生活点滴/02 电影院/你的名字。 君の名は。.md"
-    },
-    {
-      "basename": "梅根 M3GAN",
-      "path": "02 生活点滴/02 电影院/梅根 M3GAN.md"
-    },
-    {
-      "basename": "龙与地下城：侠盗荣耀 Dungeons & Dragons_ Honor Among Thieves",
-      "path": "02 生活点滴/02 电影院/龙与地下城：侠盗荣耀 Dungeons & Dragons_ Honor Among Thieves.md"
-    },
-    {
-      "basename": "龙马精神",
-      "path": "02 生活点滴/02 电影院/龙马精神.md"
-    },
-    {
-      "basename": "流浪地球2",
-      "path": "02 生活点滴/02 电影院/流浪地球2.md"
-    },
-    {
-      "basename": "流浪地球",
-      "path": "02 生活点滴/02 电影院/流浪地球.md"
-    },
-    {
-      "basename": "铃芽之旅 すずめの戸締まり",
-      "path": "02 生活点滴/02 电影院/铃芽之旅 すずめの戸締まり.md"
     }
   ],
   "omittedPaths": [],
